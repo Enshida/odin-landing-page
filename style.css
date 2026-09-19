@@ -177,3 +177,8 @@ button:hover {
 nav a:hover {
     color: blue;
 }
+
+.call-to-action button:hover {
+    background-color: lightblue;
+    color: #3882f6;
+}
