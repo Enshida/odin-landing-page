@@ -191,7 +191,13 @@ nav a:hover {
         text-align: center;
         gap: 40px;
     }
+
     .info-container {
     flex-wrap: wrap;
+    }
+    
+    header {
+    flex-direction: column;
+    gap: 16px;
     }
 }
