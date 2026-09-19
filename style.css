@@ -184,3 +184,14 @@ nav a:hover {
     background-color: lightblue;
     color: #3882f6;
 }
+
+@media (max-width: 800px) {
+    .hero {
+        flex-direction: column;
+        text-align: center;
+        gap: 40px;
+    }
+    .info-container {
+    flex-wrap: wrap;
+    }
+}
